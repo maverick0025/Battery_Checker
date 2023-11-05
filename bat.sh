@@ -28,5 +28,5 @@ then
     #osascript -e 'display dialog "Disconnect the charger 🤯" with title "High Battery Alert"'
     osascript -e "display dialog \"Disconnect the charger 🤯 Your battery is at $BAT%\" with title \"High Battery Alert\""
 fi
-    sleep 
+    sleep 600
 done
