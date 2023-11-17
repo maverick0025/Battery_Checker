@@ -32,5 +32,5 @@ then
     echo "High battery"
     
 fi
-    sleep 10
+    sleep 600
 done
