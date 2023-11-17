@@ -2,8 +2,8 @@
 
 echo "Hello, $(whoami)!"
 
-BATTHL="83"
-BATTHH="84"
+BATTHL="23"
+BATTHH="77"
 BATTERYMODE="Battery"
 ACMODE="AC"
 
